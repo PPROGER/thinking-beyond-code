@@ -55,8 +55,8 @@
 
 ## 📥 Скачать книгу
 
-Файл: `А4.1.pdf`  
-Размер: ~6MB  
+Файл: `thinking-code.pdf`  
+Размер: ~3MB  
 Формат: PDF
 
 👉 [📄 Скачать PDF](./thinking-code.pdf)
@@ -67,10 +67,11 @@
 
 Если тебе понравилась книга, или ты хочешь обсудить идеи, задать вопрос или просто сказать спасибо:
 
-- Telegram: [@pproger](https://t.me/pprogerrr)
-- YouTube: [PPROGER на YouTube](https://youtube.com/@pproger)
-- Instagram: [@pproger.me](https://instagram.com/p_proger)
-- Сайт: [pproger.me](https://pproger.me)
+- 📬 Email: [pproger@pproger.me](mailto:pproger@pproger.me)
+- 💬 Telegram: [@pprogerrr](https://t.me/pprogerrr)
+- ▶️ YouTube: [PPROGER на YouTube](https://youtube.com/@pproger)
+- 📸 Instagram: [@p_proger](https://instagram.com/p_proger)
+- 🌐 Сайт: [pproger.me](https://pproger.me)
 
 Открыты любые предложения, идеи и критика 🙌
 
